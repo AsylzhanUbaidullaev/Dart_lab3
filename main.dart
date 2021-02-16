@@ -29,7 +29,7 @@ void main(){
   var cube = Cube(length, length, length);
   cube.equal(length);
   print(cube.surfaceArea);
-  print(cube.surfaceArea);
+  print(cube.volume);
 }
 
 
